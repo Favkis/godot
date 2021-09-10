@@ -3,6 +3,7 @@
 	<brief_description>
 	</brief_description>
 	<description>
+		Center of mass for PhysicalBone is located in the origin of PhysicalBone. When creating PhysicalBone, make sure to correctly place it in the center of mass.
 	</description>
 	<tutorials>
 	</tutorials>
